@@ -40,5 +40,6 @@ npm start
 ## 🛠️ Construído com
 
 * [React](https://react.dev/)
+* [Node](https://nodejs.org/en)
 * [MySQL](https://www.mysql.com/)
 

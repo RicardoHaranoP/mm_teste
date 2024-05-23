@@ -1,15 +1,6 @@
 
 ### 🔧 Instalação
 
-# arquivo .env
-Crie um arquivo .env
-```
-  DB_HOST=
-  DB_USER=
-  DB_PASS=
-  DB_NAME=
-```
-
 Clone o projeto
 ```
 git clone https://github.com/RicardoHaranoP/mm_teste.git
@@ -21,6 +12,14 @@ cd mm_teste/api_mm
 Instale os pacotes:
 ```
 npm install
+```
+# arquivo .env
+Crie um arquivo .env e coloque suas informações
+```
+  DB_HOST=
+  DB_USER=
+  DB_PASS=
+  DB_NAME=
 ```
 Inicialize nodemon:
 ```

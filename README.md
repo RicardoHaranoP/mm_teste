@@ -1,5 +1,5 @@
 
-### 🔧 Instalação
+## 🔧 Instalação
 
 Clone o projeto
 ```
@@ -13,7 +13,6 @@ Instale os pacotes:
 ```
 npm install
 ```
-# arquivo .env
 Crie um arquivo .env e coloque suas informações
 ```
   DB_HOST=
